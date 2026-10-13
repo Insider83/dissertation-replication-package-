@@ -1,0 +1,5 @@
+This folder will produce the master panel set to replicate the tables and figures.
+
+To produce all findings, you will need confidential data from the National Educational Panel Study (NEPS): Starting Cohort 6 - Adults (doi:10.5157/NEPS:SC6:13.0.0) that can be requested for remote access to the Research Data Centers (FDZ) at the Leibniz Institute for Educational Trajectories (FDZ-LIfBi). 
+For Appendix Table A1, we also used proprietary data from the Micro Census 2008 (doi:10.21242/12211.2008.00.00.1.1.0) and 2011 (doi:10.21242/12211.2011.00.00.1.1.0), which can be accessed on-site by signing a data usage agreement with the FDZ of the Statistical Offices of the Federation and the Federal States (DESTATIS). 
+Data for Maps can be accessed via shape-files from the Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR)
